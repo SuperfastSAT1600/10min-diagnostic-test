@@ -85,7 +85,7 @@ export default function ResultsScreen({ questions, answers, elapsedSeconds, onRe
           {t.ctaLine2}
         </p>
         <a
-          href="https://tutoring.superfastsat.com/"
+          href="https://blog.naver.com/superfastsat"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-toss"
